@@ -15,7 +15,8 @@
       ?>
       <br><br>
         <aside>
-            <a href="https://www.php.net/manual/en/reserved.variables.server.php">Reserved Server Variables in PHP</a>
+            <h3>Online Resources</h3>
+            <a href="https://www.php.net/manual/en/reserved.constants.php">Predefined Constants - PHP Manual</a>
         </aside>
     </body>
     
