@@ -13,5 +13,10 @@
       // Print a message, using predefined constants and the TODAY constant:
       echo '<p>Today is ' . TODAY . '.<br>This server is running version <strong>' . PHP_VERSION . '</strong> of PHP on the <strong>' . PHP_OS . '</strong> operating system.</p>';
       ?>
+      <br><br>
+        <aside>
+            <a href="https://www.php.net/manual/en/reserved.variables.server.php">Reserved Server Variables in PHP</a>
+        </aside>
     </body>
+    
 </html>
