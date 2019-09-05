@@ -15,7 +15,7 @@
   <body>
     <?php
         # 5_commentsHTMLandPHP.php
-        # Created by:   Your name.....
+        # Created by:   Your name goes here
         # Description:  This is where you explain what your php script is supposed to be doing.
 
         echo '<p>This is a line of text.<br>This is another line of text.</p>';
