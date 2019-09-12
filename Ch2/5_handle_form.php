@@ -14,7 +14,7 @@
     <body>
         <?php # Script 2.5 - handle_form.php
         
-            **// Validate the name:**
+            // Validate the name:
             if (!empty($_REQUEST['name'])) {
             $name = $_REQUEST['name'];
             } else {
