@@ -6,7 +6,7 @@
   </head>
   
   <body>
-    <?php # Script 2.5 - handle_form.php #4
+    <?php # Script handle_form1.php #4
       // Print the submitted information:
       
       if ( !empty($_POST['name']) && !empty($_POST['comments']) && !empty($_POST['email']) ) 
