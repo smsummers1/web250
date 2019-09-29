@@ -1,4 +1,4 @@
-<?php # calculator.php
+<?php # 10_calculator.php
 
 // This function creates a radio button.
 // The function takes two arguments: the value and the name.
